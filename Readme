@@ -1,0 +1,3 @@
+Run the DemoApplication.java file as a Spring boot application
+Send a request to http://localhost:8080/coding/exercise/quiz using curl or postman.
+the desired output can be seen in the terminal in case of curl or in postman.
